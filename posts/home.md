@@ -2,5 +2,5 @@
 
 ## First blog
 
-1. [First Blog](#lorem-ipsum)
+1. [Markdown Test Page](#lorem-ipsum)
 2. [First Blog](#First)
