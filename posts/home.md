@@ -2,5 +2,5 @@
 
 ## First blog
 
-- [First Blog](#lorem-ipsum)
-- [First Blog](#First)
+1. [First Blog](#lorem-ipsum)
+2. [First Blog](#First)
