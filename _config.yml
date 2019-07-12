@@ -1,0 +1,26 @@
+title: Khoa's Blog
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://ldakhoa.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: ldakhoa
+  twitter: ldakhoa 
+  email: ldakhoa1308@gmail.com
+
