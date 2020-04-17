@@ -1,2 +1,2 @@
-# khoalda.com
-Idea from to keith https://github.com/keith/keith.so
+# ldakhoa.github.io
+Idea from [keith](https://github.com/keith/keith.so)
