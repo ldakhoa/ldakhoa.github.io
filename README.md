@@ -9,4 +9,3 @@ In case you're interested, you can reach me **[via email](mailto:hi@khoale.space
 [GitHub]: https://github.com/ldakhoa
 [Twitter]: https://twitter.com/ldakhoa
 [Facebook]: https://fb.me/1dakhoa
-
