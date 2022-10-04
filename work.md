@@ -4,7 +4,7 @@
 
 - Developed super-application NAB mobile banking with 50+ engineers in multiple languges and platforms: Objective - C, Swift, React Native
 - Working in the platform team that built system design, manage Xcode version, dependencies versions
-- Continuous Integration/Deployment Pipline Integration, Code Reviews
+- Continuous Integration/Deployment Pipeline Integration, Code Reviews
 - Optimized app performance by reducing 15% compilation time
 
 _Technologies: Swift, Objective - C, Jenkins, Ruby, Bash_
