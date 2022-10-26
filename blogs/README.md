@@ -1,1 +1,1 @@
-- [Chuyện đi làm](/chuyen-di-lam.md)
+- [Chuyện đi làm](/blogs/chuyen-di-lam.md)
