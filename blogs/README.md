@@ -1,3 +1,3 @@
 
 ### Tám Chuyện
-- [Chuyện đi làm](/blogs/chuyen-di-lam.md)
+- [Chuyện năm 2022](/blogs/chuyen-2022.md)
