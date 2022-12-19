@@ -1,5 +1,14 @@
 # Apps
 
+### GistHub
+→ [GitHub][gisthub-git]
+
+GistHub is a beautiful Git GistHub iOS client. Thanks to features like create, edit, and view gists. Includes syntax highlight. Comment on Gists even faster than GitHub Gist desktop.
+
+It's written in SwiftUI, some UIKit, and It's created specifically with iOS design guidelines in mind, so it fits right at home on your device.
+
+[gisthub-git]: https://github.com/ldakhoa/gisthub
+
 ### seedee
 
 → [GitHub][seedee-git]

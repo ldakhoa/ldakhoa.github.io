@@ -11,7 +11,7 @@ From early 2022 to present, in FinTech.
 
 _Technologies: Swift, Objective - C, Jenkins, Ruby, Bash_
 
-## Senior iOS Engineer @ [TIKI](https://tiki.vn) 🇻🇳
+## iOS Engineer @ [TIKI](https://tiki.vn) 🇻🇳
 
 From middle 2021 to early 2022, in E-commerce.
 
